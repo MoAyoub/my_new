@@ -25,5 +25,6 @@ int main(){
     cout<<" so the area is : "<<reco.area()<<endl;
     /* ----------------------- */
     cout<<" la soome est : "<<rec.resu(rec,reco).area();
+	cout<<"Done";
     return 0;
 }
